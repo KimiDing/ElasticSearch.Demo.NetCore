@@ -7,3 +7,4 @@ ElasticSearch NEST客户端 DotNet Core 3.1 WebAPI简单封装 Demo
 DotNet Core
 NEST
 Swagger
+![image](https://github.com/KimiDing/ElasticSearch.Demo.NetCore/blob/master/Img/1.png)
