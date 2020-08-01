@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ElasticSearch.Demo.NetCore.Common\ElasticSearch.Demo.NetCore.Common.csproj" />
+  </ItemGroup>
+
+</Project>
